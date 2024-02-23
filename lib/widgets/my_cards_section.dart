@@ -31,11 +31,11 @@ class _MyCardsSectionState extends State<MyCardsSection> {
         const SizedBox(
           height: 40,
         ),
-        const SizedBox(
+         SizedBox(
           width: 420,
           child: Text(
             'My Card',
-            style: AppStyles.styleSemiBold20,
+            style: AppStyles.styleSemiBold20(context),
           ),
         ),
         const SizedBox(

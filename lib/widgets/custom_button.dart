@@ -20,7 +20,7 @@ final String text;
         onPressed: () {},
         child:  Text(
           text,
-          style: AppStyles.styleBold16.copyWith(color: textColor),
+          style: AppStyles.styleBold16(context).copyWith(color: textColor),
         ),
       ),
     );
