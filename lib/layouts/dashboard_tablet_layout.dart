@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_ui/widgets/custom_drawer.dart';
-import 'package:responsive_ui/widgets/dashboard_mobile_layout.dart';
+import 'package:responsive_ui/layouts/dashboard_mobile_layout.dart';
 
 class DashboardTabletLayout extends StatelessWidget {
   const DashboardTabletLayout({super.key});

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_ui/widgets/all_expenses_and_quick_invoice_section.dart';
 import 'package:responsive_ui/widgets/custom_drawer.dart';
-import 'package:responsive_ui/widgets/income_section.dart';
-import 'package:responsive_ui/widgets/my_card_and_transaction_history_section.dart';
+import 'package:responsive_ui/features/income/widgets/income_section.dart';
+import 'package:responsive_ui/features/my_card/widgets/my_card_and_transaction_history_section.dart';
 
 class DashboardDesktopLayout extends StatelessWidget {
   const DashboardDesktopLayout({super.key});

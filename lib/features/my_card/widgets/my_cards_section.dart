@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_ui/utils/app_styles.dart';
 import 'package:responsive_ui/widgets/dots_indecator.dart';
-import 'package:responsive_ui/widgets/my_cards_page_view.dart';
+import 'package:responsive_ui/features/my_card/widgets/my_cards_page_view.dart';
 
 class MyCardsSection extends StatefulWidget {
   const MyCardsSection({super.key});

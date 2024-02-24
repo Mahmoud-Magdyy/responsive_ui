@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_ui/utils/size_config.dart';
-import 'package:responsive_ui/widgets/detailed_income_chart.dart';
-import 'package:responsive_ui/widgets/income_chart.dart';
-import 'package:responsive_ui/widgets/income_details.dart';
+import 'package:responsive_ui/features/income/widgets/detailed_income_chart.dart';
+import 'package:responsive_ui/features/income/widgets/income_chart.dart';
+import 'package:responsive_ui/features/income/widgets/income_details.dart';
 
 class IncomeSectionBody extends StatelessWidget {
   const IncomeSectionBody({

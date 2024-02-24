@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_ui/models/all_expenses_item_header_model.dart';
 import 'package:responsive_ui/utils/app_styles.dart';
-import 'package:responsive_ui/widgets/all_expense_item_header.dart';
+import 'package:responsive_ui/features/all_expenses/widgets/all_expense_item_header.dart';
 
 class InActiveAllExpensesItem extends StatelessWidget {
   const InActiveAllExpensesItem({
